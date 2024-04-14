@@ -1,4 +1,4 @@
-# Poradnik pracy z repozytorium
+# Przewodnik pracy z repozytorium
 
 ## Podział plików
 
